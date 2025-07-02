@@ -83,10 +83,9 @@ I'm a frontend-focused fullstack developer passionate about developer experience
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/miladxsar23)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milad-shiriyan/)  
 [![Medium](https://img.shields.io/badge/-Medium-000000?logo=medium)](https://medium.com/@milad.xsar72)  
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?logo=devdotto)](https://dev.to/miladxsar23)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](https://twitter.com/miladxsar23)  
 📫 **Email**: milad.xsar72@gmail.com
 
 ---
