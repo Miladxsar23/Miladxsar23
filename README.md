@@ -69,14 +69,14 @@ I'm a frontend-focused fullstack developer passionate about developer experience
 - 🔁 Easy navigation and step control
 - 💡 Built for real-world forms
 
-🔗 [Docs](https://miladxsar23.github.io/smartstepper-docs) · [Demo](https://codesandbox.io/p/sandbox/g8g8c7) · [Medium article](https://medium.com/@miladxsar23/smartstepper-v2)
+🔗 [Docs](https://github.com/Miladxsar23/smartstepper?tab=readme-ov-file#readme) · [Demo](https://smartstepper-demo.vercel.app/) · [Medium article](https://medium.com/@milad.xsar72/introducing-smartstepper-v2-smarter-cleaner-multi-step-forms-in-react-0728be0e07cf)
 
 ---
 
 ### ✍️ Articles & Blogs
 
-- 🧠 [SmartStepper 2.0 — A Better Way to Build Multi-Step Forms](https://medium.com/@miladxsar23/smartstepper-v2)
-- ❓ [Why Multi-Step Forms Are Broken (And How I Fixed It)](https://dev.to/miladxsar23/why-i-built-smartstepper)
+- 🧠 [SmartStepper 2.0 — A Better Way to Build Multi-Step Forms](https://medium.com/@milad.xsar72/introducing-smartstepper-v2-smarter-cleaner-multi-step-forms-in-react-0728be0e07cf)
+- ❓ [Why Multi-Step Forms Are Broken (And How I Fixed It)](https://dev.to/miladxsar23/build-multi-step-forms-in-react-without-the-headache-introducing-smartstepper-c5j)
 
 ---
 
