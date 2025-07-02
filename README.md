@@ -80,15 +80,6 @@ I'm a frontend-focused fullstack developer passionate about developer experience
 
 ---
 
-### 🧑‍💻 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Miladxsar23&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Miladxsar23&theme=radical" />
-</p>
-
----
 
 ### 🔗 Connect with Me
 
