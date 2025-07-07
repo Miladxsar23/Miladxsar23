@@ -30,7 +30,7 @@ I'm a frontend-focused fullstack developer passionate about developer experience
 #### ⚛️ Frontend Development
 
 - **React Ecosystem**: React, Next.js, React Router, React Hook Form, Formik
-- **Styling & UI Kits**: TailwindCSS, Material UI, ShadCN/UI, Heroicons
+- **Styling & UI Kits**: TailwindCSS, Material UI, ShadCN/UI, Heroui
 - **Animations**: Framer Motion
 - **Forms & Validation**: React Hook Form, Yup, Zod, SmartStepper
 
